@@ -1,0 +1,18 @@
+.jumbotron {
+    display: inline-block;
+    margin: 50px;
+    border: 1px solid #ccc;
+    float: none;
+    width: 280px;
+    height: 500px;
+    text-align: center;
+}
+
+.image {
+    width: 300px;
+    height: 250px;
+}
+
+.cart {
+    text-decoration-color: azure;
+}
